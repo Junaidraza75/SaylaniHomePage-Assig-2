@@ -126,6 +126,7 @@
 .navbar-nav li a:hover {
     text-decoration: white !important;
     background-color: #6a77fa;
+    color: white !important;
     border-radius: 200px;
     transition: 0.6s ease;
     font-weight: 600;
